@@ -53,7 +53,7 @@
  <a href="https://www.instagram.com/darkhrse_30/" target="blank">
   <img align="center" alt="Rohit's Instagram" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" /> &nbsp; &nbsp;
  </a>
- <a href="https://twitter.com/singhrohit_30" target="blank">
+ <a href="https://twitter.com/rohitsingh30" target="blank">
   <img align="center" alt="Rohit's Twitter" width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" /> &nbsp; &nbsp;
  </a> 
   <br/>
