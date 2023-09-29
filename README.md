@@ -47,7 +47,7 @@
   <h3 align="center">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
 </div>
 <p align="center">
- <a href="https://www.linkedin.com/in/imsinghrohit/" target="blank">
+ <a href="https://www.linkedin.com/in/imrohitsingh/" target="blank">
   <img align="center" alt="Rohit's LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
  </a>
  <a href="https://www.instagram.com/darkhrse_30/" target="blank">
@@ -66,4 +66,4 @@
 <p>
 Visit my profile and give a ⭐️ if you like it</p>
 
-⭐️ From [s](https://github.com/singhrohit)
+⭐️ From [singhrohit30](https://github.com/singhrohit30)
